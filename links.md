@@ -21,10 +21,16 @@ Análise de sentimentos em português utilizando Pytorch e Python :  https://med
 
 
 
-
+https://sites.google.com/icmc.usp.br/opinando/
 
 ----
 Github:
+* https://github.com/roneysco/TopX
+* https://github.com/roquelopez/opizer 
+* https://github.com/raphsilva/contrastive-summarization
+* https://github.com/avanco/LBC
+
+
 * https://github.com/search?l=Jupyter+Notebook&q=brand+perception&type=Repositories
 * https://github.com/tungdnguyen/Branding_Perception
 * https://github.com/orianisihaloho/Sentiment-Analysis-Brand-Reputation-Data-Twitter-pada-Studi-Kasus-Gojek
